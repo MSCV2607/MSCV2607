@@ -1,6 +1,6 @@
 # Hello There 👋
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
@@ -11,7 +11,6 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
 🚀 Mauro Sebastian  
 🌱 I’m currently learning Java  

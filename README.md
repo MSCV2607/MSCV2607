@@ -1,8 +1,9 @@
 # Hello There 👋
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
+
 
 
 

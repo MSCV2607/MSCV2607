@@ -1,7 +1,16 @@
-# 
+<div style="text-align: center;">
+  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</div>
+
+
 # Hello There 👋
 
-## About Me:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
 🚀 Mauro Sebastian  
 🌱 I’m currently learning Java  
 🥅 My biggest goal: Become a programmer  

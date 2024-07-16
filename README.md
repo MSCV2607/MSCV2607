@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello There 👋
 
 ## About Me:
 🚀 Mauro Sebastian  
@@ -7,20 +7,26 @@
 🌎 I'm from Argentina  
 🕯️ I'm 23 years old  
 
+
+
+
+
 ## Languages and Tools:
 
 <p align="left">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
 </p>
 
-# MSCV2607's GitHub Stats
+
+
+
+## MSCV2607's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 
-## Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark)
+
 
 ## Connect with me:
 

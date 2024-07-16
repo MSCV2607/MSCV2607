@@ -30,9 +30,9 @@
 
 <br />   
 
-## MSCV2607's GitHub Stats
+##GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)-->
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 

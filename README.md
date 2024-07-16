@@ -10,7 +10,7 @@
 ## Languages and Tools:
 
 <p align="left">
-    [![My Skills](https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,sql,vscode,visualstudio,html,css,bootstrap,git,github,idea)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,sql,vscode,visualstudio,html,css,bootstrap,git,github)](https://skillicons.dev)
 </p>
 
 

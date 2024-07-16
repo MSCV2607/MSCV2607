@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me:
 🚀 Mauro Sebastian  
@@ -10,7 +10,7 @@
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,sql,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
 </p>
 
 # MSCV2607's GitHub Stats

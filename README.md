@@ -1,43 +1,27 @@
-#  Hello There 👋
+# 
+# Hello There 👋
 
 ## About Me:
-<p>
-    🚀 Mauro Sebastian  
-    🌱 I’m currently learning Java  
-    🥅 My biggest goal: Become a programmer  
-    🌎 I'm from Argentina  
-    🕯️ I'm 23 years old  
-</p>
-
-<hr>
+🚀 Mauro Sebastian  
+🌱 I’m currently learning Java  
+🥅 My biggest goal: Become a programmer  
+🌎 I'm from Argentina  
+🕯️ I'm 23 years old  
 
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,sql,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
 </p>
-
-<hr>
 
 # MSCV2607's GitHub Stats
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
-
-<hr>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 
 ## Contributions
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark" alt="GitHub Streak">
-</p>
-
-<hr>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark)
 
 ## Connect with me:
 
@@ -48,4 +32,3 @@
     <a href="mailto:maurosebavecc@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
     <a href="https://www.facebook.com/maurosebastian.camorsvecchietti?mibextid=ZbWKwL" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
-

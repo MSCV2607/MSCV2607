@@ -37,7 +37,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 
 ## Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark)
 
 <br />   
 <br />   

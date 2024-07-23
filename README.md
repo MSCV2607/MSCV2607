@@ -33,12 +33,13 @@
 ## GitHub Stats
 
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 
 ## Contributions
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSCV2607&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
 
 <br />   
 <br />   

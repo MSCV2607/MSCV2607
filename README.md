@@ -14,10 +14,10 @@
 
 
 🚀 Mauro Sebastian   
-🌱 I’m currently learning Java
-🥅 My biggest goal: Become a programmer
-🌎 I'm from Argentina
-🕯️ I'm 23 years old
+🌱 I’m currently learning Java   
+🥅 My biggest goal: Become a programmer   
+🌎 I'm from Argentina   
+🕯️ I'm 23 years old   
 
 <br />   
 <br />   

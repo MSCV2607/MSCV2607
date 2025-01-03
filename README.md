@@ -7,7 +7,7 @@
 
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## About me
 
 
 
@@ -16,7 +16,7 @@
 🌱 I’m currently learning Java   
 🥅 My biggest goal: Become a programmer   
 🌎 I'm from Argentina   
-🕯️ I'm 23 years old   
+🕯️ I'm 24 years old   
 
 <br />   
 <br />   

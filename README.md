@@ -31,7 +31,7 @@ Here are a few things about me:
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github" /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github,angular,ts,mongodb,nodejs,npm," /></a>
 </p>
 
 <br />   

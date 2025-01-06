@@ -6,16 +6,22 @@
 
 
 
-## About me
+## 🌟 About me 
 
+👋 I’m **Mauro Sebastián**, a passionate developer currently focused on improving my skills in **backend development**. I’m highly motivated to become a professional developer and contribute to meaningful and impactful projects.
 
+Here are a few things about me: 
 
+- 🌱 **Currently learning**: Java, Spring Boot, Angular, backend development, and data structures.  
+- 🎯 **Goal**: Grow professionally in the world of software development.  
+- 💬 **Interested in**: Discussing technology, backend development, and learning new skills.  
+- 🏠 **From**: Argentina  
+- 🎂 **Age**: 24 years old  
+- ✈️ **Hobbies**: Exploring new technologies, reading about software architecture, and staying updated on tech trends.
 
-🚀 Mauro Sebastian   
-🌱 I’m currently learning Java   
-🥅 My biggest goal: Become a programmer   
-🌎 I'm from Argentina   
-🕯️ I'm 24 years old   
+### 🚀 Future Plans  
+- Contribute to open-source projects related to web development.  
+- Build my personal website to showcase my projects. 
 
 <br />   
 <br />   

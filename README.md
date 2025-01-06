@@ -19,6 +19,8 @@ Here are a few things about me:
 - 🎂 **Age**: 24 years old  
 - ✈️ **Hobbies**: Exploring new technologies, reading about software architecture, and staying updated on tech trends.
 
+<br />
+
 ### 🚀 Future Plans  
 - Contribute to open-source projects related to web development.  
 - Build my personal website to showcase my projects. 

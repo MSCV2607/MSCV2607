@@ -4,6 +4,7 @@
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
+
 ## 🌟 About me 
 
 👋 I’m **Mauro Sebastián**, a passionate developer currently focused on improving my skills in **backend development**. I’m highly motivated to become a professional developer and contribute to meaningful and impactful projects.

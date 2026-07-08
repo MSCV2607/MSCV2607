@@ -5,24 +5,26 @@
 </div>
 
 
-## 🌟 About me 
+## 🌟 About me
 
-👋 I’m **Mauro Sebastián**, a passionate developer currently focused on improving my skills in **backend development**. I’m highly motivated to become a professional developer and contribute to meaningful and impactful projects.
+👋 I’m **Mauro Sebastián**, a passionate **Software Developer** currently working on enterprise applications using modern technologies. I’m highly motivated to continue growing professionally, learn new technologies, and contribute to meaningful and impactful projects.
 
-Here are a few things about me: 
+Here are a few things about me:
 
-- 🌱 **Currently learning**: Java, Spring Boot, Angular, backend development, and data structures.  
-- 🎯 **Goal**: Grow professionally in the world of software development.  
-- 💬 **Interested in**: Discussing technology, backend development, and learning new skills.  
-- 🏠 **From**: Argentina  
-- 🎂 **Age**: 24 years old  
-- ✈️ **Hobbies**: Exploring new technologies, reading about software architecture, and staying updated on tech trends.
+- 💼 Currently working with: React, C#, .NET, TypeScript, SQL Server, REST APIs, Git, and Azure DevOps.
+- 🌱 Currently learning: Software architecture, cloud technologies, artificial intelligence, and software development best practices.
+- 🎯 Goal: Continue growing professionally as a Software Developer and contribute to challenging and impactful projects.
+- 💬 Interested in: Frontend development, backend development, artificial intelligence, software architecture, and modern web technologies.
+- 🏠 From: Argentina.
+- 🎂 Age: 25 years old.
+- ✈️ Hobbies: Exploring new technologies.
 
 <br />
 
-### 🚀 Future Plans  
-- Contribute to open-source projects related to web development.  
-- Build my personal website to showcase my projects. 
+### 🚀 Future Plans
+
+* Continue improving my frontend and backend skills while expanding my knowledge of cloud technologies and artificial intelligence.
+
 
 <br />   
 <br />   
@@ -30,7 +32,7 @@ Here are a few things about me:
 ## Languages and Tools:
 
 <p align="left">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cs,dotnet,spring,python,godot,idea,vscode,visualstudio,html,css,bootstrap,git,github,angular,ts,mongodb,nodejs,npm," /></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,ts,npm,html,css,vscode,visualstudio,git,github," /></a>
 </p>
 
 <br />   

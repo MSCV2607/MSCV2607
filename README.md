@@ -40,9 +40,12 @@ Here are a few things about me:
 ## GitHub Stats
 
 <!--Arreglar-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)-->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)
+
+
+<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)-->
 
 ![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 

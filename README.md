@@ -44,7 +44,8 @@ Here are a few things about me:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
 
-![Most Used Languages](https://nice-readme.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MSCV2607&layout=compact&theme=dark)
+
 
 
 ## Contributions

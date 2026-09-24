@@ -37,7 +37,7 @@ Here are a few things about me:
 
 <br />   
 
-## GitHub Stats
+<!--## GitHub Stats-->
 
 <!--Arreglar-->
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSCV2607&show_icons=true&theme=dark&count_private=true)-->
